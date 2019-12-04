@@ -1,0 +1,7 @@
+Mickey Mouse 1234 40 10.00
+Minnie Mouse 5678 40 10.00
+Pluto Dog 9012 10 5.00
+Snow White 3456 30 7.50
+Sleeping Beauty 7890 20 12.00
+Donald Duck 2468 25 9.00
+Uncle Scrooge 3579 15 8.00
